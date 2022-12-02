@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-    baseURL: "https://api.adjaracant.xyz",
+    baseURL: "https://api.adjaranet.com",
     withCredentials: false,
     headers: {
         Accept: 'application/json',
